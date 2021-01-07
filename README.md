@@ -8,3 +8,8 @@ U-Net model is considered as sub-optimal approach for this task because it has d
 
 The choice of loss function is important because it helps the model to perform better segmentations. So, inabilities of the models could be tackled by developing different loss functions. 
 
+The dataset is available at servers of Department of Computer Enginnering at Bilkent University.
+
+Path of images: "/media/hdd3/gunduz/cansari/datasets/tubule/images/" 
+
+Annotations: "/media/hdd3/gunduz/cansari/datasets/tubule/gold_standard_segm"
